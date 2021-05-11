@@ -1,0 +1,41 @@
+_repo: USFWS-Circular-16-Migration-of-Birds-1979_65222
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hines, Bob
+    alias: Hines, Robert W.
+    birthdate: 1912
+    deathdate: 1994
+    gutenberg_agent_id: '8318'
+    url: http://www.gutenberg.org/2009/agents/8318
+creator:
+  authors:
+  - agent_name: Lincoln, Frederick Charles
+    aliases:
+    - Lincoln, F. C. (Frederick Charles)
+    - Lincoln, Frederick C.
+    birthdate: 1892
+    deathdate: 1960
+    gutenberg_agent_id: '53217'
+    url: http://www.gutenberg.org/2009/agents/53217
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Charles_Lincoln
+  - agent_name: Peterson, Steven R.
+    gutenberg_agent_id: '53241'
+    url: http://www.gutenberg.org/2009/agents/53241
+  editor:
+    agent_name: Anastasi, Peter A.
+    gutenberg_agent_id: '45817'
+    url: http://www.gutenberg.org/2009/agents/45817
+description: ''
+gutenberg_issued: '2021-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'USFWS Circular 16: Migration of Birds (1979)'
+url: http://www.gutenberg.org/ebooks/65222
